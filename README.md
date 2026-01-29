@@ -17,6 +17,7 @@ This project performs comprehensive time series analysis and forecasting on hist
 price_forecasting_project/
 ├── price_forecasting.ipynb    # Main Jupyter notebook with complete analysis
 ├── price_data.csv            # Source dataset
+├── price_forecast_12month.csv  # Outcome csv file
 └── README.md                 # This file
 ```
 
