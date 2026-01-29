@@ -135,17 +135,6 @@ pip install -r requirements.txt
 jupyter notebook price_forecasting.ipynb
 ```
 
-## Future Work
-
-Planned enhancements include:
-- [ ] Implementation of ARIMA/SARIMA models
-- [ ] Prophet forecasting model
-- [ ] LSTM neural network for time series prediction
-- [ ] Cross-validation and model comparison
-- [ ] Feature engineering (lagged variables, rolling statistics)
-- [ ] Seasonality decomposition
-- [ ] Forecast evaluation metrics (MAE, RMSE, MAPE)
-
 ## Data Cleaning Notes
 
 ### IQR Method Analysis
